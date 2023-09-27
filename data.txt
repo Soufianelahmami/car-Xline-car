@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJpVpx2.webp",
+            "title": "car Xline car 1",
+            "text_Content_": "It seems like you might be referring to the term Xline car, but as of my last knowledge update in September 2021, I don't have specific information about a car model or concept called Xline. Car models and concepts are continually evolving, and new releases may have occurred since then."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJpVbDl.webp",
+            "title": "car Xline car 2",
+            "text_Content_": "If Xline refers to a specific car model or concept introduced after September 2021, I recommend checking the latest automotive news, official manufacturer websites, or reputable automotive publications for the most up-to-date information on the Xline car."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJpVDN4.webp",
+            "title": "car Xline car 3",
+            "text_Content_": "If you're looking for a creative idea for a car concept or design called Xline, here's a hypothetical concept for inspiration"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJpVZHG.webp",
+            "title": "car Xline car 4",
+            "text_Content_": "Design Theme: The Xline concept car is designed with a futuristic and sleek aesthetic, combining elements of luxury and performance. The exterior features bold, angular lines with a dynamic X-shaped grille, giving it a distinctive and aggressive look"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJpVsln.webp",
+            "title": "car Xline car 5",
+            "text_Content_": "Technology and Innovation: The Xline is equipped with cutting-edge autonomous driving capabilities, advanced AI integration for a personalized driving experience, and an electric powertrain for sustainability"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJpV6Pt.webp",
+            "title": "car Xline car 6",
+            "text_Content_": "The interior is designed with a minimalistic approach, featuring a panoramic display that seamlessly integrates with the dashboard and provides a wide range of information and entertainment options"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJpViKX.webp",
+            "title": "car Xline car 7",
+            "text_Content_": "The Xline concept is designed to be versatile, suitable for both urban commuting and long-distance cruising. It has adaptable interior configurations, allowing for easy transformation between a comfortable lounge mode and a driver-centric mode when manual control is desired.."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJpVLSs.webp",
+            "title": "car Xline car 8",
+            "text_Content_": "The Xline concept prioritizes sustainability with its electric powertrain, utilizing recycled materials in its construction, and incorporating eco-friendly technologies. It aims to be a symbol of responsible luxury and forward-thinking design"
         }
     ]
 }
